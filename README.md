@@ -81,5 +81,5 @@ By combining both technical methods and business knowledge, this project success
 ## Conclusion
 This project demonstrates how a data engineer can leverage both **technical skills** and **business insights** to address complex data integration challenges. It highlights the importance of aligning technical processes with business goals to create valuable, actionable insights that drive growth.
 
-Check out the detailed article on this at my Medium blog [here].  
-For any question reach out to me through my linked 
+Check out the detailed article on this at my Medium blog [here](https://medium.com/@sahamsiddiqui/from-disparate-data-to-user-behavior-insights-solving-a-startups-data-challenge-eb4a1b0bbb89).  
+For any question reach out to me through my [linked](https://www.linkedin.com/in/saham-siddiqui/) 
