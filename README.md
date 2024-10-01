@@ -1,4 +1,5 @@
 # Combining Disparate Datasets for Startup (Normalization , Fuzzy Matching)
+![interactive web-app dashboard](https://github.com/sahamsiddiqui/Combining-disparate-datasets-for-startup-fuzzymatch/blob/master/data/Screenshot%20dashboard%20.png)
 ## Project Overview
 **ReviewFriends** is a startup business that runs a review website with affiliate marketing. The challenge was to better understand user behavior by creating an analytical dataset from multiple data sources. These datasets come from both in-house systems and partner companies, and they are often **disparate**—meaning they don't share a common key for easy combination.
 
